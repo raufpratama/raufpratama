@@ -25,5 +25,8 @@ I'm a magician. I often casting my spells on the front to create interactive bea
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-
+- [React-Query: You may not need state management‍♂️](https://javascript.plainenglish.io/react-query-you-may-not-need-state-management-%EF%B8%8F-15de0837a569?source=rss-1c3733efe812------2)
+- [Let’s Validate Our Form: React Hook Form ft. TypeScript](https://javascript.plainenglish.io/lets-validate-our-form-react-hook-form-ft-typescript-1c5184c04429?source=rss-1c3733efe812------2)
+- [Controlled vs Uncontrolled Component ⚛️](https://medium.com/@raufpratama/controlled-vs-uncontrolled-component-%EF%B8%8F-fa707c759967?source=rss-1c3733efe812------2)
+- [Make your code more “Human Readable” with JSDoc](https://medium.com/@raufpratama/make-your-code-more-human-readable-with-jsdoc-6a89f8267f0c?source=rss-1c3733efe812------2)
 <!-- BLOG-POST-LIST:END -->
